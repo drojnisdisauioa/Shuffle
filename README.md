@@ -74,20 +74,16 @@ Tampermonkey lets you run custom scripts automatically on websites.
 
 1. **Install Tampermonkey** if you haven’t already:
 
-   * Go to: [https://www.tampermonkey.net/](https://www.tampermonkey.net/)
+   * Go to: [Tampermonkey](https://www.tampermonkey.net/)
    * Choose your browser and click **Install**.
 
 2. After it's installed, click the **Tampermonkey icon** (usually in the top right of your browser) and select **“Dashboard”**.
 
 3. Click **“Create a new script”**.
 
-4. Remove the default code, and **paste this instead**:
+4. Remove the default code, and **paste the code from this link instead**:
 
-   ```
-   https://raw.githubusercontent.com/drojnisdisauioa/Shuffle/refs/heads/main/tampermonkey.js
-   ```
-
-   (Or fetch it manually and paste the contents.)
+   * Go to: [Tampermonkey Script](https://github.com/drojnisdisauioa/shuffle/blob/main/tampermonkey.js)
 
 5. Hit **File → Save** (or Ctrl+S).
 
